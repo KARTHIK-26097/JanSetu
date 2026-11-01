@@ -168,9 +168,4 @@ The application includes fully functional client-side fallbacks (Web Speech API,
 ## 💻 Local Setup Instructions
 To run this project locally, execute the following commands in your terminal:
 
-```bash
-# 1. Install dependencies
-npm install
 
-# 2. Start the local development server
-npm run dev
