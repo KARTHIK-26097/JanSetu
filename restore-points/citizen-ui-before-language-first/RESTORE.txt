@@ -1,0 +1,1 @@
+Restore point created before the language-first citizen UI update. To undo this update, copy each mirrored source file in this folder back to the same relative path in the project. This snapshot includes only files changed by the language-first/simplification work.

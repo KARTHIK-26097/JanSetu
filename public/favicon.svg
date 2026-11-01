@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#ea580c"/>
+  <!-- Speech bubble -->
+  <path d="M12 14C12 11.7909 13.7909 10 16 10H32C34.2091 10 36 11.7909 36 14V26C36 28.2091 34.2091 30 32 30H20L14 36V30C12.8954 30 12 29.1046 12 28V14Z" fill="#ffffff"/>
+  <!-- Reassuring Checkmark / Shield -->
+  <path d="M19 20L23 24L29 17" stroke="#ea580c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
